@@ -1,0 +1,540 @@
+In cycle 1.1:
+There are 10 points, the closest point-pair is (-8.001449,4.547608) and (-7.448574,7.245200) with the distance of 2.753666.
+ Time of naive Divide and Conquer is: 23
+ (-8.001449,4.547608),(-7.448574,7.245200) with the distance of 2.753666.
+ Time of preprocessed Divide and Conquer is: 11
+ (-8.001449,4.547608),(-7.448574,7.245200) with the distance of 2.753666.
+In cycle 1.2:
+There are 100 points, the closest point-pair is (28.201667,-42.391552) and (28.216854,-42.308901) with the distance of 0.084034.
+ Time of naive Divide and Conquer is: 139
+ (28.201667,-42.391552),(28.216854,-42.308901) with the distance of 0.084034.
+ Time of preprocessed Divide and Conquer is: 120
+ (28.201667,-42.391552),(28.216854,-42.308901) with the distance of 0.084034.
+In cycle 1.3:
+There are 1000 points, the closest point-pair is (154.054655,197.849328) and (154.986685,197.873186) with the distance of 0.932335.
+ Time of naive Divide and Conquer is: 2547
+ (154.054655,197.849328),(154.986685,197.873186) with the distance of 0.932335.
+ Time of preprocessed Divide and Conquer is: 1539
+ (154.054655,197.849328),(154.986685,197.873186) with the distance of 0.932335.
+In cycle 1.4:
+There are 10000 points, the closest point-pair is (8306.176863,-2002.024532) and (8305.662607,-2001.730352) with the distance of 0.592453.
+ Time of naive Divide and Conquer is: 84752
+ (8306.176863,-2002.024532),(8305.662607,-2001.730352) with the distance of 0.592453.
+ Time of preprocessed Divide and Conquer is: 15949
+ (8306.176863,-2002.024532),(8305.662607,-2001.730352) with the distance of 0.592453.
+In cycle 1.5:
+There are 50000 points, the closest point-pair is (46236.618852,36382.384721) and (46235.653228,36384.395719) with the distance of 2.230816.
+ Time of naive Divide and Conquer is: 1647496
+ (46236.618852,36382.384721),(46235.653228,36384.395719) with the distance of 2.230816.
+ Time of preprocessed Divide and Conquer is: 87926
+ (46236.618852,36382.384721),(46235.653228,36384.395719) with the distance of 2.230816.
+In cycle 1.6:
+There are 100000 points, the closest point-pair is (-57976.244509,33596.930182) and (-57976.127514,33597.609728) with the distance of 0.689543.
+ Time of naive Divide and Conquer is: 6470942
+ (-57976.244509,33596.930182),(-57976.127514,33597.609728) with the distance of 0.689543.
+ Time of preprocessed Divide and Conquer is: 194544
+ (-57976.244509,33596.930182),(-57976.127514,33597.609728) with the distance of 0.689543.
+In cycle 2.1:
+There are 10 points, the closest point-pair is (-5.015823,0.858722) and (-4.066838,1.588603) with the distance of 1.197205.
+ Time of naive Divide and Conquer is: 11
+ (-5.015823,0.858722),(-4.066838,1.588603) with the distance of 1.197205.
+ Time of preprocessed Divide and Conquer is: 10
+ (-5.015823,0.858722),(-4.066838,1.588603) with the distance of 1.197205.
+In cycle 2.2:
+There are 100 points, the closest point-pair is (-46.160203,-3.793278) and (-45.689556,-3.860496) with the distance of 0.475423.
+ Time of naive Divide and Conquer is: 124
+ (-46.160203,-3.793278),(-45.689556,-3.860496) with the distance of 0.475423.
+ Time of preprocessed Divide and Conquer is: 109
+ (-46.160203,-3.793278),(-45.689556,-3.860496) with the distance of 0.475423.
+In cycle 2.3:
+There are 1000 points, the closest point-pair is (570.604979,924.332846) and (573.185345,925.094539) with the distance of 2.690440.
+ Time of naive Divide and Conquer is: 2498
+ (570.604979,924.332846),(573.185345,925.094539) with the distance of 2.690440.
+ Time of preprocessed Divide and Conquer is: 1980
+ (570.604979,924.332846),(573.185345,925.094539) with the distance of 2.690440.
+In cycle 2.4:
+There are 10000 points, the closest point-pair is (-68.099578,-7096.393606) and (-67.744302,-7096.206826) with the distance of 0.401383.
+ Time of naive Divide and Conquer is: 88373
+ (-68.099578,-7096.393606),(-67.744302,-7096.206826) with the distance of 0.401383.
+ Time of preprocessed Divide and Conquer is: 16723
+ (-68.099578,-7096.393606),(-67.744302,-7096.206826) with the distance of 0.401383.
+In cycle 2.5:
+There are 50000 points, the closest point-pair is (-28337.796589,-29635.356514) and (-28338.223280,-29633.217665) with the distance of 2.180996.
+ Time of naive Divide and Conquer is: 1696391
+ (-28337.796589,-29635.356514),(-28338.223280,-29633.217665) with the distance of 2.180996.
+ Time of preprocessed Divide and Conquer is: 88464
+ (-28337.796589,-29635.356514),(-28338.223280,-29633.217665) with the distance of 2.180996.
+In cycle 2.6:
+There are 100000 points, the closest point-pair is (-82958.508919,6450.120600) and (-82957.655737,6451.334517) with the distance of 1.483750.
+ Time of naive Divide and Conquer is: 6482370
+ (-82958.508919,6450.120600),(-82957.655737,6451.334517) with the distance of 1.483750.
+ Time of preprocessed Divide and Conquer is: 193457
+ (-82958.508919,6450.120600),(-82957.655737,6451.334517) with the distance of 1.483750.
+In cycle 3.1:
+There are 10 points, the closest point-pair is (5.850775,6.146718) and (5.923424,4.313882) with the distance of 1.834275.
+ Time of naive Divide and Conquer is: 10
+ (5.850775,6.146718),(5.923424,4.313882) with the distance of 1.834275.
+ Time of preprocessed Divide and Conquer is: 9
+ (5.850775,6.146718),(5.923424,4.313882) with the distance of 1.834275.
+In cycle 3.2:
+There are 100 points, the closest point-pair is (-90.528676,-66.019788) and (-88.887548,-64.786978) with the distance of 2.052589.
+ Time of naive Divide and Conquer is: 114
+ (-90.528676,-66.019788),(-88.887548,-64.786978) with the distance of 2.052589.
+ Time of preprocessed Divide and Conquer is: 100
+ (-90.528676,-66.019788),(-88.887548,-64.786978) with the distance of 2.052589.
+In cycle 3.3:
+There are 1000 points, the closest point-pair is (898.594693,-833.966742) and (899.465706,-833.588320) with the distance of 0.949667.
+ Time of naive Divide and Conquer is: 2619
+ (898.594693,-833.966742),(899.465706,-833.588320) with the distance of 0.949667.
+ Time of preprocessed Divide and Conquer is: 1522
+ (898.594693,-833.966742),(899.465706,-833.588320) with the distance of 0.949667.
+In cycle 3.4:
+There are 10000 points, the closest point-pair is (9647.091948,1284.801643) and (9647.658437,1284.925355) with the distance of 0.579840.
+ Time of naive Divide and Conquer is: 81783
+ (9647.091948,1284.801643),(9647.658437,1284.925355) with the distance of 0.579840.
+ Time of preprocessed Divide and Conquer is: 17608
+ (9647.091948,1284.801643),(9647.658437,1284.925355) with the distance of 0.579840.
+In cycle 3.5:
+There are 50000 points, the closest point-pair is (-27228.111164,43479.237881) and (-27226.772456,43479.118153) with the distance of 1.344051.
+ Time of naive Divide and Conquer is: 1693808
+ (-27228.111164,43479.237881),(-27226.772456,43479.118153) with the distance of 1.344051.
+ Time of preprocessed Divide and Conquer is: 88812
+ (-27228.111164,43479.237881),(-27226.772456,43479.118153) with the distance of 1.344051.
+In cycle 3.6:
+There are 100000 points, the closest point-pair is (85876.797919,-51575.063713) and (85876.868324,-51574.414609) with the distance of 0.652911.
+ Time of naive Divide and Conquer is: 6314747
+ (85876.797919,-51575.063713),(85876.868324,-51574.414609) with the distance of 0.652911.
+ Time of preprocessed Divide and Conquer is: 186233
+ (85876.797919,-51575.063713),(85876.868324,-51574.414609) with the distance of 0.652911.
+In cycle 4.1:
+There are 10 points, the closest point-pair is (8.630093,-4.140254) and (8.864941,-3.896289) with the distance of 0.338633.
+ Time of naive Divide and Conquer is: 8
+ (8.630093,-4.140254),(8.864941,-3.896289) with the distance of 0.338633.
+ Time of preprocessed Divide and Conquer is: 8
+ (8.630093,-4.140254),(8.864941,-3.896289) with the distance of 0.338633.
+In cycle 4.2:
+There are 100 points, the closest point-pair is (45.974743,72.361793) and (46.487571,73.292890) with the distance of 1.062984.
+ Time of naive Divide and Conquer is: 108
+ (45.974743,72.361793),(46.487571,73.292890) with the distance of 1.062984.
+ Time of preprocessed Divide and Conquer is: 98
+ (45.974743,72.361793),(46.487571,73.292890) with the distance of 1.062984.
+In cycle 4.3:
+There are 1000 points, the closest point-pair is (830.109429,-894.322310) and (832.540496,-893.952623) with the distance of 2.459015.
+ Time of naive Divide and Conquer is: 2296
+ (830.109429,-894.322310),(832.540496,-893.952623) with the distance of 2.459015.
+ Time of preprocessed Divide and Conquer is: 1407
+ (830.109429,-894.322310),(832.540496,-893.952623) with the distance of 2.459015.
+In cycle 4.4:
+There are 10000 points, the closest point-pair is (893.034411,-4657.787539) and (893.622709,-4657.173411) with the distance of 0.850440.
+ Time of naive Divide and Conquer is: 88323
+ (893.034411,-4657.787539),(893.622709,-4657.173411) with the distance of 0.850440.
+ Time of preprocessed Divide and Conquer is: 17317
+ (893.034411,-4657.787539),(893.622709,-4657.173411) with the distance of 0.850440.
+In cycle 4.5:
+There are 50000 points, the closest point-pair is (43749.277715,-23185.263426) and (43749.176572,-23183.045864) with the distance of 2.219867.
+ Time of naive Divide and Conquer is: 1660208
+ (43749.277715,-23185.263426),(43749.176572,-23183.045864) with the distance of 2.219867.
+ Time of preprocessed Divide and Conquer is: 86234
+ (43749.277715,-23185.263426),(43749.176572,-23183.045864) with the distance of 2.219867.
+In cycle 4.6:
+There are 100000 points, the closest point-pair is (-44280.831873,-59277.014700) and (-44278.172783,-59276.036601) with the distance of 2.833273.
+ Time of naive Divide and Conquer is: 6455082
+ (-44280.831873,-59277.014700),(-44278.172783,-59276.036601) with the distance of 2.833273.
+ Time of preprocessed Divide and Conquer is: 192515
+ (-44280.831873,-59277.014700),(-44278.172783,-59276.036601) with the distance of 2.833273.
+In cycle 5.1:
+There are 10 points, the closest point-pair is (-7.898061,-5.427818) and (-7.465603,-5.197485) with the distance of 0.489972.
+ Time of naive Divide and Conquer is: 11
+ (-7.898061,-5.427818),(-7.465603,-5.197485) with the distance of 0.489972.
+ Time of preprocessed Divide and Conquer is: 10
+ (-7.898061,-5.427818),(-7.465603,-5.197485) with the distance of 0.489972.
+In cycle 5.2:
+There are 100 points, the closest point-pair is (56.712415,25.830483) and (57.187391,26.780038) with the distance of 1.061723.
+ Time of naive Divide and Conquer is: 128
+ (56.712415,25.830483),(57.187391,26.780038) with the distance of 1.061723.
+ Time of preprocessed Divide and Conquer is: 116
+ (56.712415,25.830483),(57.187391,26.780038) with the distance of 1.061723.
+In cycle 5.3:
+There are 1000 points, the closest point-pair is (974.642548,369.976792) and (976.376756,370.558264) with the distance of 1.829094.
+ Time of naive Divide and Conquer is: 2574
+ (974.642548,369.976792),(976.376756,370.558264) with the distance of 1.829094.
+ Time of preprocessed Divide and Conquer is: 1609
+ (974.642548,369.976792),(976.376756,370.558264) with the distance of 1.829094.
+In cycle 5.4:
+There are 10000 points, the closest point-pair is (4506.429661,-4149.411781) and (4507.715127,-4149.981605) with the distance of 1.406102.
+ Time of naive Divide and Conquer is: 84925
+ (4506.429661,-4149.411781),(4507.715127,-4149.981605) with the distance of 1.406102.
+ Time of preprocessed Divide and Conquer is: 16995
+ (4506.429661,-4149.411781),(4507.715127,-4149.981605) with the distance of 1.406102.
+In cycle 5.5:
+There are 50000 points, the closest point-pair is (7569.335470,-47794.962780) and (7570.896847,-47794.909052) with the distance of 1.562302.
+ Time of naive Divide and Conquer is: 1732663
+ (7569.335470,-47794.962780),(7570.896847,-47794.909052) with the distance of 1.562302.
+ Time of preprocessed Divide and Conquer is: 87283
+ (7569.335470,-47794.962780),(7570.896847,-47794.909052) with the distance of 1.562302.
+In cycle 5.6:
+There are 100000 points, the closest point-pair is (-95634.031356,-27302.671504) and (-95632.994800,-27302.547583) with the distance of 1.043936.
+ Time of naive Divide and Conquer is: 6545564
+ (-95634.031356,-27302.671504),(-95632.994800,-27302.547583) with the distance of 1.043936.
+ Time of preprocessed Divide and Conquer is: 212213
+ (-95634.031356,-27302.671504),(-95632.994800,-27302.547583) with the distance of 1.043936.
+In cycle 6.1:
+There are 10 points, the closest point-pair is (-0.032402,-3.747368) and (1.252986,-3.934005) with the distance of 1.298867.
+ Time of naive Divide and Conquer is: 9
+ (-0.032402,-3.747368),(1.252986,-3.934005) with the distance of 1.298867.
+ Time of preprocessed Divide and Conquer is: 8
+ (-0.032402,-3.747368),(1.252986,-3.934005) with the distance of 1.298867.
+In cycle 6.2:
+There are 100 points, the closest point-pair is (-4.354093,-27.740504) and (-3.130333,-25.251175) with the distance of 2.773869.
+ Time of naive Divide and Conquer is: 118
+ (-4.354093,-27.740504),(-3.130333,-25.251175) with the distance of 2.773869.
+ Time of preprocessed Divide and Conquer is: 102
+ (-4.354093,-27.740504),(-3.130333,-25.251175) with the distance of 2.773869.
+In cycle 6.3:
+There are 1000 points, the closest point-pair is (-223.963110,-34.344805) and (-222.995934,-32.901314) with the distance of 1.737554.
+ Time of naive Divide and Conquer is: 2274
+ (-223.963110,-34.344805),(-222.995934,-32.901314) with the distance of 1.737554.
+ Time of preprocessed Divide and Conquer is: 1371
+ (-223.963110,-34.344805),(-222.995934,-32.901314) with the distance of 1.737554.
+In cycle 6.4:
+There are 10000 points, the closest point-pair is (-5751.340634,-5563.841279) and (-5749.241097,-5564.775066) with the distance of 2.297827.
+ Time of naive Divide and Conquer is: 89100
+ (-5751.340634,-5563.841279),(-5749.241097,-5564.775066) with the distance of 2.297827.
+ Time of preprocessed Divide and Conquer is: 18637
+ (-5751.340634,-5563.841279),(-5749.241097,-5564.775066) with the distance of 2.297827.
+In cycle 6.5:
+There are 50000 points, the closest point-pair is (32847.276967,-2696.430676) and (32847.809437,-2696.598657) with the distance of 0.558339.
+ Time of naive Divide and Conquer is: 1711969
+ (32847.276967,-2696.430676),(32847.809437,-2696.598657) with the distance of 0.558339.
+ Time of preprocessed Divide and Conquer is: 92431
+ (32847.276967,-2696.430676),(32847.809437,-2696.598657) with the distance of 0.558339.
+In cycle 6.6:
+There are 100000 points, the closest point-pair is (80492.275244,55630.442021) and (80492.472934,55629.230075) with the distance of 1.227964.
+ Time of naive Divide and Conquer is: 6555265
+ (80492.275244,55630.442021),(80492.472934,55629.230075) with the distance of 1.227964.
+ Time of preprocessed Divide and Conquer is: 188243
+ (80492.275244,55630.442021),(80492.472934,55629.230075) with the distance of 1.227964.
+In cycle 7.1:
+There are 10 points, the closest point-pair is (8.986988,-5.468348) and (9.377891,-3.940644) with the distance of 1.576923.
+ Time of naive Divide and Conquer is: 10
+ (8.986988,-5.468348),(9.377891,-3.940644) with the distance of 1.576923.
+ Time of preprocessed Divide and Conquer is: 9
+ (8.986988,-5.468348),(9.377891,-3.940644) with the distance of 1.576923.
+In cycle 7.2:
+There are 100 points, the closest point-pair is (-37.854885,-79.937290) and (-36.606661,-79.499412) with the distance of 1.322800.
+ Time of naive Divide and Conquer is: 131
+ (-37.854885,-79.937290),(-36.606661,-79.499412) with the distance of 1.322800.
+ Time of preprocessed Divide and Conquer is: 111
+ (-37.854885,-79.937290),(-36.606661,-79.499412) with the distance of 1.322800.
+In cycle 7.3:
+There are 1000 points, the closest point-pair is (698.888730,343.964427) and (698.187696,344.235070) with the distance of 0.751462.
+ Time of naive Divide and Conquer is: 2350
+ (698.888730,343.964427),(698.187696,344.235070) with the distance of 0.751462.
+ Time of preprocessed Divide and Conquer is: 1361
+ (698.888730,343.964427),(698.187696,344.235070) with the distance of 0.751462.
+In cycle 7.4:
+There are 10000 points, the closest point-pair is (2017.010342,7647.716581) and (2016.902441,7648.265889) with the distance of 0.559805.
+ Time of naive Divide and Conquer is: 84990
+ (2017.010342,7647.716581),(2016.902441,7648.265889) with the distance of 0.559805.
+ Time of preprocessed Divide and Conquer is: 16618
+ (2017.010342,7647.716581),(2016.902441,7648.265889) with the distance of 0.559805.
+In cycle 7.5:
+There are 50000 points, the closest point-pair is (32089.047252,38367.675520) and (32089.383606,38368.730501) with the distance of 1.107303.
+ Time of naive Divide and Conquer is: 1695215
+ (32089.047252,38367.675520),(32089.383606,38368.730501) with the distance of 1.107303.
+ Time of preprocessed Divide and Conquer is: 92781
+ (32089.047252,38367.675520),(32089.383606,38368.730501) with the distance of 1.107303.
+In cycle 7.6:
+There are 100000 points, the closest point-pair is (-52280.833320,74531.906694) and (-52280.931743,74532.366354) with the distance of 0.470079.
+ Time of naive Divide and Conquer is: 6642611
+ (-52280.833320,74531.906694),(-52280.931743,74532.366354) with the distance of 0.470079.
+ Time of preprocessed Divide and Conquer is: 190880
+ (-52280.833320,74531.906694),(-52280.931743,74532.366354) with the distance of 0.470079.
+In cycle 8.1:
+There are 10 points, the closest point-pair is (8.123841,2.110177) and (9.673363,3.531693) with the distance of 2.102790.
+ Time of naive Divide and Conquer is: 11
+ (8.123841,2.110177),(9.673363,3.531693) with the distance of 2.102790.
+ Time of preprocessed Divide and Conquer is: 8
+ (8.123841,2.110177),(9.673363,3.531693) with the distance of 2.102790.
+In cycle 8.2:
+There are 100 points, the closest point-pair is (62.232791,52.530529) and (63.904540,53.141671) with the distance of 1.779955.
+ Time of naive Divide and Conquer is: 118
+ (62.232791,52.530529),(63.904540,53.141671) with the distance of 1.779955.
+ Time of preprocessed Divide and Conquer is: 107
+ (62.232791,52.530529),(63.904540,53.141671) with the distance of 1.779955.
+In cycle 8.3:
+There are 1000 points, the closest point-pair is (606.765520,486.547195) and (606.361920,487.656036) with the distance of 1.180009.
+ Time of naive Divide and Conquer is: 2491
+ (606.765520,486.547195),(606.361920,487.656036) with the distance of 1.180009.
+ Time of preprocessed Divide and Conquer is: 1408
+ (606.765520,486.547195),(606.361920,487.656036) with the distance of 1.180009.
+In cycle 8.4:
+There are 10000 points, the closest point-pair is (1421.268789,8332.858319) and (1421.665021,8332.554122) with the distance of 0.499536.
+ Time of naive Divide and Conquer is: 86344
+ (1421.268789,8332.858319),(1421.665021,8332.554122) with the distance of 0.499536.
+ Time of preprocessed Divide and Conquer is: 17092
+ (1421.268789,8332.858319),(1421.665021,8332.554122) with the distance of 0.499536.
+In cycle 8.5:
+There are 50000 points, the closest point-pair is (35448.980757,-27040.686523) and (35449.508560,-27040.139937) with the distance of 0.759824.
+ Time of naive Divide and Conquer is: 1679915
+ (35448.980757,-27040.686523),(35449.508560,-27040.139937) with the distance of 0.759824.
+ Time of preprocessed Divide and Conquer is: 89600
+ (35448.980757,-27040.686523),(35449.508560,-27040.139937) with the distance of 0.759824.
+In cycle 8.6:
+There are 100000 points, the closest point-pair is (-27469.645330,70099.148984) and (-27470.609204,70099.887296) with the distance of 1.214149.
+ Time of naive Divide and Conquer is: 6492159
+ (-27469.645330,70099.148984),(-27470.609204,70099.887296) with the distance of 1.214149.
+ Time of preprocessed Divide and Conquer is: 189065
+ (-27469.645330,70099.148984),(-27470.609204,70099.887296) with the distance of 1.214149.
+In cycle 9.1:
+There are 10 points, the closest point-pair is (5.251970,6.497004) and (6.936794,5.725474) with the distance of 1.853076.
+ Time of naive Divide and Conquer is: 8
+ (5.251970,6.497004),(6.936794,5.725474) with the distance of 1.853076.
+ Time of preprocessed Divide and Conquer is: 8
+ (5.251970,6.497004),(6.936794,5.725474) with the distance of 1.853076.
+In cycle 9.2:
+There are 100 points, the closest point-pair is (-6.325565,-65.549096) and (-6.131638,-65.503205) with the distance of 0.199284.
+ Time of naive Divide and Conquer is: 108
+ (-6.325565,-65.549096),(-6.131638,-65.503205) with the distance of 0.199284.
+ Time of preprocessed Divide and Conquer is: 96
+ (-6.325565,-65.549096),(-6.131638,-65.503205) with the distance of 0.199284.
+In cycle 9.3:
+There are 1000 points, the closest point-pair is (658.258597,2.478828) and (660.429727,3.331750) with the distance of 2.332656.
+ Time of naive Divide and Conquer is: 2636
+ (658.258597,2.478828),(660.429727,3.331750) with the distance of 2.332656.
+ Time of preprocessed Divide and Conquer is: 1523
+ (658.258597,2.478828),(660.429727,3.331750) with the distance of 2.332656.
+In cycle 9.4:
+There are 10000 points, the closest point-pair is (-495.539212,1366.460303) and (-494.923805,1367.474303) with the distance of 1.186138.
+ Time of naive Divide and Conquer is: 89967
+ (-495.539212,1366.460303),(-494.923805,1367.474303) with the distance of 1.186138.
+ Time of preprocessed Divide and Conquer is: 17646
+ (-495.539212,1366.460303),(-494.923805,1367.474303) with the distance of 1.186138.
+In cycle 9.5:
+There are 50000 points, the closest point-pair is (5636.589872,32334.545581) and (5637.682733,32334.787669) with the distance of 1.119353.
+ Time of naive Divide and Conquer is: 1764674
+ (5636.589872,32334.545581),(5637.682733,32334.787669) with the distance of 1.119353.
+ Time of preprocessed Divide and Conquer is: 92869
+ (5636.589872,32334.545581),(5637.682733,32334.787669) with the distance of 1.119353.
+In cycle 9.6:
+There are 100000 points, the closest point-pair is (-43827.944794,85420.998207) and (-43827.908462,85420.956832) with the distance of 0.055063.
+ Time of naive Divide and Conquer is: 6633314
+ (-43827.944794,85420.998207),(-43827.908462,85420.956832) with the distance of 0.055063.
+ Time of preprocessed Divide and Conquer is: 186239
+ (-43827.944794,85420.998207),(-43827.908462,85420.956832) with the distance of 0.055063.
+In cycle 10.1:
+There are 10 points, the closest point-pair is (8.514359,0.155273) and (8.945760,1.783987) with the distance of 1.684879.
+ Time of naive Divide and Conquer is: 12
+ (8.514359,0.155273),(8.945760,1.783987) with the distance of 1.684879.
+ Time of preprocessed Divide and Conquer is: 9
+ (8.514359,0.155273),(8.945760,1.783987) with the distance of 1.684879.
+In cycle 10.2:
+There are 100 points, the closest point-pair is (88.990012,19.431715) and (90.519286,20.099947) with the distance of 1.668896.
+ Time of naive Divide and Conquer is: 134
+ (88.990012,19.431715),(90.519286,20.099947) with the distance of 1.668896.
+ Time of preprocessed Divide and Conquer is: 115
+ (88.990012,19.431715),(90.519286,20.099947) with the distance of 1.668896.
+In cycle 10.3:
+There are 1000 points, the closest point-pair is (434.793972,-276.842005) and (434.007716,-276.839476) with the distance of 0.786260.
+ Time of naive Divide and Conquer is: 2686
+ (434.793972,-276.842005),(434.007716,-276.839476) with the distance of 0.786260.
+ Time of preprocessed Divide and Conquer is: 1617
+ (434.793972,-276.842005),(434.007716,-276.839476) with the distance of 0.786260.
+In cycle 10.4:
+There are 10000 points, the closest point-pair is (-8838.503511,-4274.032484) and (-8836.926746,-4272.348329) with the distance of 2.307068.
+ Time of naive Divide and Conquer is: 88842
+ (-8838.503511,-4274.032484),(-8836.926746,-4272.348329) with the distance of 2.307068.
+ Time of preprocessed Divide and Conquer is: 16244
+ (-8838.503511,-4274.032484),(-8836.926746,-4272.348329) with the distance of 2.307068.
+In cycle 10.5:
+There are 50000 points, the closest point-pair is (15718.774640,-43005.938637) and (15719.393115,-43004.493277) with the distance of 1.572125.
+ Time of naive Divide and Conquer is: 1725231
+ (15718.774640,-43005.938637),(15719.393115,-43004.493277) with the distance of 1.572125.
+ Time of preprocessed Divide and Conquer is: 89680
+ (15718.774640,-43005.938637),(15719.393115,-43004.493277) with the distance of 1.572125.
+In cycle 10.6:
+There are 100000 points, the closest point-pair is (50075.163831,63351.520978) and (50076.135294,63348.273842) with the distance of 3.389341.
+ Time of naive Divide and Conquer is: 6556799
+ (50075.163831,63351.520978),(50076.135294,63348.273842) with the distance of 3.389341.
+ Time of preprocessed Divide and Conquer is: 189629
+ (50075.163831,63351.520978),(50076.135294,63348.273842) with the distance of 3.389341.
+In cycle 11.1:
+There are 10 points, the closest point-pair is (-9.542628,-3.659410) and (-9.261638,-2.876898) with the distance of 0.831433.
+ Time of naive Divide and Conquer is: 10
+ (-9.542628,-3.659410),(-9.261638,-2.876898) with the distance of 0.831433.
+ Time of preprocessed Divide and Conquer is: 10
+ (-9.542628,-3.659410),(-9.261638,-2.876898) with the distance of 0.831433.
+In cycle 11.2:
+There are 100 points, the closest point-pair is (37.539432,-66.506456) and (38.209672,-65.865926) with the distance of 0.927092.
+ Time of naive Divide and Conquer is: 146
+ (37.539432,-66.506456),(38.209672,-65.865926) with the distance of 0.927092.
+ Time of preprocessed Divide and Conquer is: 111
+ (37.539432,-66.506456),(38.209672,-65.865926) with the distance of 0.927092.
+In cycle 11.3:
+There are 1000 points, the closest point-pair is (-964.296121,-803.077975) and (-964.175599,-802.508434) with the distance of 0.582153.
+ Time of naive Divide and Conquer is: 2426
+ (-964.296121,-803.077975),(-964.175599,-802.508434) with the distance of 0.582153.
+ Time of preprocessed Divide and Conquer is: 1389
+ (-964.296121,-803.077975),(-964.175599,-802.508434) with the distance of 0.582153.
+In cycle 11.4:
+There are 10000 points, the closest point-pair is (-2010.185184,6004.843772) and (-2010.154318,6004.160561) with the distance of 0.683908.
+ Time of naive Divide and Conquer is: 84717
+ (-2010.185184,6004.843772),(-2010.154318,6004.160561) with the distance of 0.683908.
+ Time of preprocessed Divide and Conquer is: 16569
+ (-2010.185184,6004.843772),(-2010.154318,6004.160561) with the distance of 0.683908.
+In cycle 11.5:
+There are 50000 points, the closest point-pair is (-17846.395941,-26384.851882) and (-17848.420755,-26384.799582) with the distance of 2.025490.
+ Time of naive Divide and Conquer is: 1680309
+ (-17846.395941,-26384.851882),(-17848.420755,-26384.799582) with the distance of 2.025490.
+ Time of preprocessed Divide and Conquer is: 93979
+ (-17846.395941,-26384.851882),(-17848.420755,-26384.799582) with the distance of 2.025490.
+In cycle 11.6:
+There are 100000 points, the closest point-pair is (-83019.099184,-77294.300344) and (-83018.973466,-77292.816518) with the distance of 1.489142.
+ Time of naive Divide and Conquer is: 6689180
+ (-83019.099184,-77294.300344),(-83018.973466,-77292.816518) with the distance of 1.489142.
+ Time of preprocessed Divide and Conquer is: 195212
+ (-83019.099184,-77294.300344),(-83018.973466,-77292.816518) with the distance of 1.489142.
+In cycle 12.1:
+There are 10 points, the closest point-pair is (3.536459,-2.553420) and (4.390613,-1.732169) with the distance of 1.184919.
+ Time of naive Divide and Conquer is: 12
+ (3.536459,-2.553420),(4.390613,-1.732169) with the distance of 1.184919.
+ Time of preprocessed Divide and Conquer is: 9
+ (3.536459,-2.553420),(4.390613,-1.732169) with the distance of 1.184919.
+In cycle 12.2:
+There are 100 points, the closest point-pair is (-39.431332,1.036556) and (-38.949538,0.305772) with the distance of 0.875311.
+ Time of naive Divide and Conquer is: 160
+ (-39.431332,1.036556),(-38.949538,0.305772) with the distance of 0.875311.
+ Time of preprocessed Divide and Conquer is: 117
+ (-39.431332,1.036556),(-38.949538,0.305772) with the distance of 0.875311.
+In cycle 12.3:
+There are 1000 points, the closest point-pair is (-561.663773,642.027174) and (-561.442913,640.279487) with the distance of 1.761587.
+ Time of naive Divide and Conquer is: 2500
+ (-561.663773,642.027174),(-561.442913,640.279487) with the distance of 1.761587.
+ Time of preprocessed Divide and Conquer is: 1480
+ (-561.663773,642.027174),(-561.442913,640.279487) with the distance of 1.761587.
+In cycle 12.4:
+There are 10000 points, the closest point-pair is (-3638.249540,-500.208611) and (-3639.775670,-500.069653) with the distance of 1.532443.
+ Time of naive Divide and Conquer is: 89845
+ (-3638.249540,-500.208611),(-3639.775670,-500.069653) with the distance of 1.532443.
+ Time of preprocessed Divide and Conquer is: 18183
+ (-3638.249540,-500.208611),(-3639.775670,-500.069653) with the distance of 1.532443.
+In cycle 12.5:
+There are 50000 points, the closest point-pair is (33216.205064,38981.072319) and (33216.023983,38981.519064) with the distance of 0.482049.
+ Time of naive Divide and Conquer is: 1732130
+ (33216.205064,38981.072319),(33216.023983,38981.519064) with the distance of 0.482049.
+ Time of preprocessed Divide and Conquer is: 90572
+ (33216.205064,38981.072319),(33216.023983,38981.519064) with the distance of 0.482049.
+In cycle 12.6:
+There are 100000 points, the closest point-pair is (-26912.752084,71592.781876) and (-26912.811048,71593.671470) with the distance of 0.891546.
+ Time of naive Divide and Conquer is: 6656252
+ (-26912.752084,71592.781876),(-26912.811048,71593.671470) with the distance of 0.891546.
+ Time of preprocessed Divide and Conquer is: 195657
+ (-26912.752084,71592.781876),(-26912.811048,71593.671470) with the distance of 0.891546.
+In cycle 13.1:
+There are 10 points, the closest point-pair is (-1.283507,7.364410) and (-1.020311,8.730470) with the distance of 1.391183.
+ Time of naive Divide and Conquer is: 11
+ (-1.283507,7.364410),(-1.020311,8.730470) with the distance of 1.391183.
+ Time of preprocessed Divide and Conquer is: 10
+ (-1.283507,7.364410),(-1.020311,8.730470) with the distance of 1.391183.
+In cycle 13.2:
+There are 100 points, the closest point-pair is (0.148695,-89.639043) and (-0.001223,-88.207163) with the distance of 1.439707.
+ Time of naive Divide and Conquer is: 129
+ (0.148695,-89.639043),(-0.001223,-88.207163) with the distance of 1.439707.
+ Time of preprocessed Divide and Conquer is: 115
+ (0.148695,-89.639043),(-0.001223,-88.207163) with the distance of 1.439707.
+In cycle 13.3:
+There are 1000 points, the closest point-pair is (848.075412,813.327722) and (848.502008,815.418245) with the distance of 2.133605.
+ Time of naive Divide and Conquer is: 2668
+ (848.075412,813.327722),(848.502008,815.418245) with the distance of 2.133605.
+ Time of preprocessed Divide and Conquer is: 1589
+ (848.075412,813.327722),(848.502008,815.418245) with the distance of 2.133605.
+In cycle 13.4:
+There are 10000 points, the closest point-pair is (-8319.014129,-8434.310391) and (-8317.190838,-8433.142480) with the distance of 2.165273.
+ Time of naive Divide and Conquer is: 88653
+ (-8319.014129,-8434.310391),(-8317.190838,-8433.142480) with the distance of 2.165273.
+ Time of preprocessed Divide and Conquer is: 16890
+ (-8319.014129,-8434.310391),(-8317.190838,-8433.142480) with the distance of 2.165273.
+In cycle 13.5:
+There are 50000 points, the closest point-pair is (37325.427770,-36242.449853) and (37326.739790,-36242.661179) with the distance of 1.328930.
+ Time of naive Divide and Conquer is: 1755017
+ (37325.427770,-36242.449853),(37326.739790,-36242.661179) with the distance of 1.328930.
+ Time of preprocessed Divide and Conquer is: 93043
+ (37325.427770,-36242.449853),(37326.739790,-36242.661179) with the distance of 1.328930.
+In cycle 13.6:
+There are 100000 points, the closest point-pair is (2638.181536,-43487.772327) and (2637.339178,-43487.449722) with the distance of 0.902021.
+ Time of naive Divide and Conquer is: 6574590
+ (2638.181536,-43487.772327),(2637.339178,-43487.449722) with the distance of 0.902021.
+ Time of preprocessed Divide and Conquer is: 197216
+ (2638.181536,-43487.772327),(2637.339178,-43487.449722) with the distance of 0.902021.
+In cycle 14.1:
+There are 10 points, the closest point-pair is (-0.263241,9.572989) and (0.481621,9.746953) with the distance of 0.764908.
+ Time of naive Divide and Conquer is: 10
+ (-0.263241,9.572989),(0.481621,9.746953) with the distance of 0.764908.
+ Time of preprocessed Divide and Conquer is: 9
+ (-0.263241,9.572989),(0.481621,9.746953) with the distance of 0.764908.
+In cycle 14.2:
+There are 100 points, the closest point-pair is (19.516133,58.284845) and (19.414798,58.539684) with the distance of 0.274248.
+ Time of naive Divide and Conquer is: 128
+ (19.516133,58.284845),(19.414798,58.539684) with the distance of 0.274248.
+ Time of preprocessed Divide and Conquer is: 118
+ (19.516133,58.284845),(19.414798,58.539684) with the distance of 0.274248.
+In cycle 14.3:
+There are 1000 points, the closest point-pair is (-436.949657,-82.007865) and (-435.838135,-81.521183) with the distance of 1.213401.
+ Time of naive Divide and Conquer is: 3308
+ (-436.949657,-82.007865),(-435.838135,-81.521183) with the distance of 1.213401.
+ Time of preprocessed Divide and Conquer is: 1821
+ (-436.949657,-82.007865),(-435.838135,-81.521183) with the distance of 1.213401.
+In cycle 14.4:
+There are 10000 points, the closest point-pair is (8973.196857,-2824.000700) and (8973.619062,-2820.777336) with the distance of 3.250897.
+ Time of naive Divide and Conquer is: 92312
+ (8973.196857,-2824.000700),(8973.619062,-2820.777336) with the distance of 3.250897.
+ Time of preprocessed Divide and Conquer is: 17471
+ (8973.196857,-2824.000700),(8973.619062,-2820.777336) with the distance of 3.250897.
+In cycle 14.5:
+There are 50000 points, the closest point-pair is (-44776.400102,10187.857167) and (-44776.928487,10188.771648) with the distance of 1.056156.
+ Time of naive Divide and Conquer is: 1712487
+ (-44776.400102,10187.857167),(-44776.928487,10188.771648) with the distance of 1.056156.
+ Time of preprocessed Divide and Conquer is: 87684
+ (-44776.400102,10187.857167),(-44776.928487,10188.771648) with the distance of 1.056156.
+In cycle 14.6:
+There are 100000 points, the closest point-pair is (-98484.825275,10806.061895) and (-98484.063468,10806.968031) with the distance of 1.183821.
+ Time of naive Divide and Conquer is: 6678074
+ (-98484.825275,10806.061895),(-98484.063468,10806.968031) with the distance of 1.183821.
+ Time of preprocessed Divide and Conquer is: 204360
+ (-98484.825275,10806.061895),(-98484.063468,10806.968031) with the distance of 1.183821.
+In cycle 15.1:
+There are 10 points, the closest point-pair is (7.410990,6.162437) and (5.912804,7.182969) with the distance of 1.812746.
+ Time of naive Divide and Conquer is: 12
+ (7.410990,6.162437),(5.912804,7.182969) with the distance of 1.812746.
+ Time of preprocessed Divide and Conquer is: 11
+ (7.410990,6.162437),(5.912804,7.182969) with the distance of 1.812746.
+In cycle 15.2:
+There are 100 points, the closest point-pair is (20.178477,-48.095209) and (20.630162,-47.805010) with the distance of 0.536875.
+ Time of naive Divide and Conquer is: 132
+ (20.178477,-48.095209),(20.630162,-47.805010) with the distance of 0.536875.
+ Time of preprocessed Divide and Conquer is: 152
+ (20.178477,-48.095209),(20.630162,-47.805010) with the distance of 0.536875.
+In cycle 15.3:
+There are 1000 points, the closest point-pair is (-704.918365,-527.498051) and (-703.372131,-526.393883) with the distance of 1.900007.
+ Time of naive Divide and Conquer is: 2819
+ (-704.918365,-527.498051),(-703.372131,-526.393883) with the distance of 1.900007.
+ Time of preprocessed Divide and Conquer is: 1705
+ (-704.918365,-527.498051),(-703.372131,-526.393883) with the distance of 1.900007.
+In cycle 15.4:
+There are 10000 points, the closest point-pair is (2440.640680,5650.942118) and (2440.643733,5650.607187) with the distance of 0.334945.
+ Time of naive Divide and Conquer is: 90544
+ (2440.640680,5650.942118),(2440.643733,5650.607187) with the distance of 0.334945.
+ Time of preprocessed Divide and Conquer is: 20108
+ (2440.640680,5650.942118),(2440.643733,5650.607187) with the distance of 0.334945.
+In cycle 15.5:
+There are 50000 points, the closest point-pair is (39726.951023,-30072.516657) and (39728.468295,-30072.844852) with the distance of 1.552361.
+ Time of naive Divide and Conquer is: 1710270
+ (39726.951023,-30072.516657),(39728.468295,-30072.844852) with the distance of 1.552361.
+ Time of preprocessed Divide and Conquer is: 94239
+ (39726.951023,-30072.516657),(39728.468295,-30072.844852) with the distance of 1.552361.
+In cycle 15.6:
+There are 100000 points, the closest point-pair is (-45859.176534,52349.179015) and (-45858.623462,52349.851628) with the distance of 0.870803.
+ Time of naive Divide and Conquer is: 6628249
+ (-45859.176534,52349.179015),(-45858.623462,52349.851628) with the distance of 0.870803.
+ Time of preprocessed Divide and Conquer is: 200176
+ (-45859.176534,52349.179015),(-45858.623462,52349.851628) with the distance of 0.870803.
