@@ -9,11 +9,11 @@
 
 using namespace std;
 
-void InsertSort(vector<int>&A);
-void SelectSort(vector<int>&A);
-void BubbleSort(vector<int>&A);
+void InsertSort(vector<int>&A,int &compare, int &move);
+void SelectSort(vector<int>&A,int &compare, int &move);
+void BubbleSort(vector<int>&A,int &compare, int &move);
 void merge(vector<int>& A, int left, int mid, int right);
-void MergeSort(vector<int>& A, int left, int right);
-void QuickSort(vector<int>&A);
-void ShellSort(vector<int>&A);
+void MergeSort(vector<int>& A, int left, int right,int &compare, int &move);
+void QuickSort(vector<int>&A,int &compare, int &move);
+void ShellSort(vector<int>&A,int &compare, int &move);
 
