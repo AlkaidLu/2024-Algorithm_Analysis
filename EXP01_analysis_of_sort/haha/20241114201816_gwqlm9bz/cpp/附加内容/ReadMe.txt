@@ -1,0 +1,1 @@
+编译BlockQuickSort_VS_DualPivotQuickSort.cpp观察结果即可。觉得太慢可以去主程序里把那1亿和1亿5000万的测试删掉。运行结果看截图

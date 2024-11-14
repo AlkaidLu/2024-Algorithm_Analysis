@@ -9,4 +9,4 @@
 
 using namespace std;
 
-void out(vector<int> &);
+void Out(vector<int> &);

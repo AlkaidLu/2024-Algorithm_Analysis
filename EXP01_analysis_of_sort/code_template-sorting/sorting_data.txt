@@ -1,0 +1,255 @@
+vector_size: 100
+Sort Name: InsertSort
+Average Compares: 2568
+Average Memory Accesses: 7713
+Average Time: 1.22e-05 seconds
+
+Sort Name: SelectSort
+Average Compares: 4950
+Average Memory Accesses: 10089
+Average Time: 2.03e-05 seconds
+
+Sort Name: BubbleSort
+Average Compares: 4852
+Average Memory Accesses: 14728
+Average Time: 4.41e-05 seconds
+
+Sort Name: MergeSort
+Average Compares: 541
+Average Memory Accesses: 3771
+Average Time: 2.52e-05 seconds
+
+Sort Name: ShellSort
+Average Compares: 873
+Average Memory Accesses: 1851
+Average Time: 8.25e-06 seconds
+
+Sort Name: QuickSort_Hole
+Average Compares: 673
+Average Memory Accesses: 1258
+Average Time: 5.25e-06 seconds
+
+Sort Name: QuickSort_Hoare
+Average Compares: 885
+Average Memory Accesses: 1275
+Average Time: 7.2e-06 seconds
+
+Sort Name: QuickSort_Book
+Average Compares: 647
+Average Memory Accesses: 1470
+Average Time: 7.25e-06 seconds
+
+Sort Name: QuickSort_Hole_Better_Selection
+Average Compares: 638
+Average Memory Accesses: 1226
+Average Time: 5.75e-06 seconds
+
+Sort Name: BlockQuickSort
+Average Compares: 789
+Average Memory Accesses: 1868
+Average Time: 1.95e-05 seconds
+
+vector_size: 1000
+Sort Name: InsertSort
+Average Compares: 250870
+Average Memory Accesses: 752625
+Average Time: 0.00096425 seconds
+
+Sort Name: SelectSort
+Average Compares: 499500
+Average Memory Accesses: 1000984
+Average Time: 0.0013011 seconds
+
+Sort Name: BubbleSort
+Average Compares: 498439
+Average Memory Accesses: 1496757
+Average Time: 0.00357855 seconds
+
+Sort Name: MergeSort
+Average Compares: 8697
+Average Memory Accesses: 57299
+Average Time: 0.00026245 seconds
+
+Sort Name: ShellSort
+Average Compares: 15015
+Average Memory Accesses: 31062
+Average Time: 0.00012075 seconds
+
+Sort Name: QuickSort_Hole
+Average Compares: 10915
+Average Memory Accesses: 19822
+Average Time: 7.5e-05 seconds
+
+Sort Name: QuickSort_Hoare
+Average Compares: 14756
+Average Memory Accesses: 20196
+Average Time: 8.6e-05 seconds
+
+Sort Name: QuickSort_Book
+Average Compares: 11207
+Average Memory Accesses: 24276
+Average Time: 0.0001035 seconds
+
+Sort Name: QuickSort_Hole_Better_Selection
+Average Compares: 10488
+Average Memory Accesses: 19352
+Average Time: 7.265e-05 seconds
+
+Sort Name: BlockQuickSort
+Average Compares: 12554
+Average Memory Accesses: 29825
+Average Time: 0.000205 seconds
+
+vector_size: 5000
+Sort Name: InsertSort
+Average Compares: 6248814
+Average Memory Accesses: 18746460
+Average Time: 0.0221542 seconds
+
+Sort Name: SelectSort
+Average Compares: 12497500
+Average Memory Accesses: 25004981
+Average Time: 0.0288014 seconds
+
+Sort Name: BubbleSort
+Average Compares: 12493946
+Average Memory Accesses: 37469863
+Average Time: 0.0924558 seconds
+
+Sort Name: MergeSort
+Average Compares: 55226
+Average Memory Accesses: 357684
+Average Time: 0.0015815 seconds
+
+Sort Name: ShellSort
+Average Compares: 115682
+Average Memory Accesses: 236492
+Average Time: 0.00083495 seconds
+
+Sort Name: QuickSort_Hole
+Average Compares: 70508
+Average Memory Accesses: 125700
+Average Time: 0.0004224 seconds
+
+Sort Name: QuickSort_Hoare
+Average Compares: 95925
+Average Memory Accesses: 128411
+Average Time: 0.00048715 seconds
+
+Sort Name: QuickSort_Book
+Average Compares: 70855
+Average Memory Accesses: 150580
+Average Time: 0.0006229 seconds
+
+Sort Name: QuickSort_Hole_Better_Selection
+Average Compares: 66360
+Average Memory Accesses: 121792
+Average Time: 0.0004299 seconds
+
+Sort Name: BlockQuickSort
+Average Compares: 81193
+Average Memory Accesses: 190467
+Average Time: 0.00105625 seconds
+
+vector_size: 10000
+Sort Name: InsertSort
+Average Compares: 24990547
+Average Memory Accesses: 74971659
+Average Time: 0.0863902 seconds
+
+Sort Name: SelectSort
+Average Compares: 49995000
+Average Memory Accesses: 100009981
+Average Time: 0.115182 seconds
+
+Sort Name: BubbleSort
+Average Compares: 49984592
+Average Memory Accesses: 149895055
+Average Time: 0.374268 seconds
+
+Sort Name: MergeSort
+Average Compares: 120456
+Average Memory Accesses: 775376
+Average Time: 0.0029745 seconds
+
+Sort Name: ShellSort
+Average Compares: 265216
+Average Memory Accesses: 540565
+Average Time: 0.0019213 seconds
+
+Sort Name: QuickSort_Hole
+Average Compares: 155747
+Average Memory Accesses: 275282
+Average Time: 0.00091295 seconds
+
+Sort Name: QuickSort_Hoare
+Average Compares: 207542
+Average Memory Accesses: 277313
+Average Time: 0.00119645 seconds
+
+Sort Name: QuickSort_Book
+Average Compares: 155763
+Average Memory Accesses: 331283
+Average Time: 0.00125825 seconds
+
+Sort Name: QuickSort_Hole_Better_Selection
+Average Compares: 142920
+Average Memory Accesses: 263441
+Average Time: 0.0009337 seconds
+
+Sort Name: BlockQuickSort
+Average Compares: 176194
+Average Memory Accesses: 411368
+Average Time: 0.00232525 seconds
+
+vector_size: 100000
+Sort Name: InsertSort
+Average Compares: 2498270236
+Average Memory Accesses: 7494810733
+Average Time: 8.96496 seconds
+
+Sort Name: SelectSort
+Average Compares: 4999950000
+Average Memory Accesses: 10000099976
+Average Time: 12.3876 seconds
+
+Sort Name: BubbleSort
+Average Compares: 4999793948
+Average Memory Accesses: 14997548341
+Average Time: 42.685 seconds
+
+Sort Name: MergeSort
+Average Compares: 1536299
+Average Memory Accesses: 9748310
+Average Time: 0.0355786 seconds
+
+Sort Name: ShellSort
+Average Compares: 4297319
+Average Memory Accesses: 8695778
+Average Time: 0.0281155 seconds
+
+Sort Name: QuickSort_Hole
+Average Compares: 2009664
+Average Memory Accesses: 3515863
+Average Time: 0.0120594 seconds
+
+Sort Name: QuickSort_Hoare
+Average Compares: 2692556
+Average Memory Accesses: 3542999
+Average Time: 0.014309 seconds
+
+Sort Name: QuickSort_Book
+Average Compares: 2030702
+Average Memory Accesses: 4266184
+Average Time: 0.0172451 seconds
+
+Sort Name: QuickSort_Hole_Better_Selection
+Average Compares: 1827628
+Average Memory Accesses: 3351111
+Average Time: 0.0126554 seconds
+
+Sort Name: BlockQuickSort
+Average Compares: 2242934
+Average Memory Accesses: 5227250
+Average Time: 0.0270128 seconds
+

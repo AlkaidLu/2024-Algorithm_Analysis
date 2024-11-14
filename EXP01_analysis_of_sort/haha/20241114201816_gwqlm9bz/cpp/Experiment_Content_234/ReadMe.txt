@@ -1,0 +1,5 @@
+执行顺序：
+	首先编译algorithms_main.cpp，然后会生成一个exe，执行得到sorting_results.txt。执行draw_sorting_results.py，得到相应的Figure_X.png，X代表一轮测试中样本大小的最大值
+文件说明：
+	algorithms_main.cpp包含了对几个排序算法的插桩和对比，生成的txt文件记录了每一种排序算法在每一个输入规模下的运行时间，比较次数，移动次数。num_trials变量代表了每一轮中样例的数量，最后会运行num_trials次循环，然后取均值。sizes存放了size的一系列大小，作为数据规模的输入。每一个size都对应同样的num_trials。
+	draw_sorting_results.py是用来根据sorting_results.txt的内容来画统计图的。每个统计图都是三个子图，从左到右分别是运行时间，比较次数，移动次数的统计记录。Figure_1000，Figure_10000, Figure_50000对应着样本为1000,10000,50000时的情况。如果想更改输入规模，请改写cpp中的sizes数组

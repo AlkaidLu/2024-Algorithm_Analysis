@@ -1,0 +1,6 @@
+执行顺序：
+	首先编译better_quick_sort.cpp，然后会生成一个exe，执行得到Better_Quick_Sorting.txt。执行draw_better_quick_quick_sorting_results.py，得到相应的Figure_1.png。
+文件说明：
+	better_quick_sort.cpp包含了两种排序算法（经典快排，优化基元选择的快排），生成的txt文件记录了两种排序算法在每一个输入规模下的运行时间，比较次数，移动次数。num_trials变量代表了每一轮中样例的数量，最后会运行num_trials次循环，然后取均值。sizes存放了size的一系列大小，作为数据规模的输入。每一个size都对应同样的num_trials。优化基元的方法采取了三数取中法。它选择数组的第一个元素、中间元素和最后一个元素中的中位数作为枢轴，这样可以减少最坏情况发生的可能性。
+	draw_better_quick_quick_sorting_results.py是用来根据Better_Quick_Sorting.txt的内容来画统计图的。每个统计图都是三个子图，从左到右分别是运行时间，比较次数，移动次数的统计记录。
+	

@@ -1,0 +1,7 @@
+执行顺序：
+	首先编译ThreeWaysToQuickSort.cpp，然后会生成一个exe，执行得到three_ways_sorting_result.txt。执行draw_threeways_quick_sorting_results.py，得到相应的Figure_1.png。
+文件说明：
+	ThreeWaysToQuickSort.cpp包含了三种排序算法（经典快排，随机选择基元的快排，三路快排），生成的txt文件记录了三种排序算法在每一个输入规模下的运行时间，比较次数，移动次数。num_trials变量代表了每一轮中样例的数量，最后会运行num_trials次循环，然后取均值。sizes存放了size的一系列大小，作为数据规模的输入。每一个size都对应同样的num_trials。随机选择基元的快排采取了随机数选择基元。三路快排使用了三路进行递归
+	draw_threeways_quick_sorting_results.py是用来根据three_ways_sorting_result.txt的内容来画统计图的。每个统计图都是三个子图，从左到右分别是运行时间，比较次数，移动次数的统计记录。
+	Figure_X对应了sizes中的sizes向右位移的次数。例如figure_11对应于size>>11。这是为了观察重复元素较多时的情况
+	
